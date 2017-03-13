@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Ucze\u0144 Czarodzieja/_Scenes/Main Story.unity"
+  isLoaded: 1
+  isActive: 1
