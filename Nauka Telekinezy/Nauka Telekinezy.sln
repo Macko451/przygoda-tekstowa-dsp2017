@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2CC42F9D-223F-3C87-D431-9167818788A4}") = "Nauka Telekinezy", "Assembly-CSharp.csproj", "{67436FD3-DCDC-76B0-5DDD-A3C9A975737D}"
+EndProject
+Project("{2CC42F9D-223F-3C87-D431-9167818788A4}") = "Nauka Telekinezy", "Assembly-UnityScript.unityproj", "{40B1DD56-B81D-F68C-9CF8-ED283E5320A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67436FD3-DCDC-76B0-5DDD-A3C9A975737D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67436FD3-DCDC-76B0-5DDD-A3C9A975737D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67436FD3-DCDC-76B0-5DDD-A3C9A975737D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67436FD3-DCDC-76B0-5DDD-A3C9A975737D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B1DD56-B81D-F68C-9CF8-ED283E5320A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B1DD56-B81D-F68C-9CF8-ED283E5320A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B1DD56-B81D-F68C-9CF8-ED283E5320A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B1DD56-B81D-F68C-9CF8-ED283E5320A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
