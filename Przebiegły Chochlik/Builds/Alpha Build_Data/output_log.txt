@@ -1,0 +1,64 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 Ti (ID=0x11c6)
+    Vendor:   NVIDIA
+    VRAM:     994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.280 seconds
+Platform assembly: E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\PROGRAMY\Unity\Udemy\Number Wizard\Builds\Alpha Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.229906 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.050447 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.278389 ms (FindLiveObjects: 0.031102 ms CreateObjectMapping: 0.024959 ms MarkObjects: 0.205816 ms  DeleteObjects: 0.011519 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.906590 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 202.
+Total: 0.316788 ms (FindLiveObjects: 0.033022 ms CreateObjectMapping: 0.014207 ms MarkObjects: 0.252662 ms  DeleteObjects: 0.015743 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.630888 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.286453 ms (FindLiveObjects: 0.034942 ms CreateObjectMapping: 0.013055 ms MarkObjects: 0.224631 ms  DeleteObjects: 0.012287 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.633192 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 202.
+Total: 0.296821 ms (FindLiveObjects: 0.034942 ms CreateObjectMapping: 0.013439 ms MarkObjects: 0.234231 ms  DeleteObjects: 0.012671 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.569067 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 187.
+Total: 0.293749 ms (FindLiveObjects: 0.041470 ms CreateObjectMapping: 0.014207 ms MarkObjects: 0.218488 ms  DeleteObjects: 0.018431 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.473070 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 187.
+Total: 0.290677 ms (FindLiveObjects: 0.035710 ms CreateObjectMapping: 0.019199 ms MarkObjects: 0.229623 ms  DeleteObjects: 0.004991 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1aec -> priority: 1 
