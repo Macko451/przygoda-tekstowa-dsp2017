@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{59218F17-51B2-0DA0-96E1-C25ACE46D515}") = "Obrona Twierdzy", "Assembly-CSharp.csproj", "{C0BD38C2-241F-08ED-41AF-0DE0EAC7409A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0BD38C2-241F-08ED-41AF-0DE0EAC7409A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BD38C2-241F-08ED-41AF-0DE0EAC7409A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BD38C2-241F-08ED-41AF-0DE0EAC7409A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BD38C2-241F-08ED-41AF-0DE0EAC7409A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
