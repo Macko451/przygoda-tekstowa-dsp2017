@@ -4,6 +4,7 @@ public class Bullet : MonoBehaviour
 {
 
 	public float speed = 70f;
+	public int damage = 50;
 	public GameObject impactEffect;
 
 	private Transform target;
@@ -46,6 +47,11 @@ public class Bullet : MonoBehaviour
 
 	void Damage (Transform enemy)
 	{
-		Destroy(enemy.gameObject);
+		Enemy e = enemy.GetComponent<Enemy> (); // nawiązanie do klasy Enemy i dostęp do jej metod i zmiennych
+
+		if (e != null) 
+		{
+			e.TakeDamage(damage);
+		}
 	}
 }
