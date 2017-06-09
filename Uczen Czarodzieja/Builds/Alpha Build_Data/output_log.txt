@@ -1,0 +1,226 @@
+Initialize engine version: 5.5.4f1 (8ffd0efd98b1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 Ti (ID=0x11c6)
+    Vendor:   NVIDIA
+    VRAM:     994 MB
+    Driver:   21.21.13.7570
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.192558 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.867201 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 588.
+Total: 6.798084 ms (FindLiveObjects: 0.077181 ms CreateObjectMapping: 0.039550 ms MarkObjects: 0.349427 ms  DeleteObjects: 6.331157 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 11ec -> priority: 1 
+Platform assembly: E:\PROGRAMY\Unity\Konkursowe\Uczen Czarodzieja\Builds\Alpha Build_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.895070 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 340.
+Total: 3.060366 ms (FindLiveObjects: 0.061437 ms CreateObjectMapping: 0.025343 ms MarkObjects: 0.200824 ms  DeleteObjects: 2.771993 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.490349 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 344.
+Total: 6.527374 ms (FindLiveObjects: 0.037246 ms CreateObjectMapping: 0.037630 ms MarkObjects: 0.206584 ms  DeleteObjects: 6.244760 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.486409 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.290293 ms (FindLiveObjects: 0.036478 ms CreateObjectMapping: 0.036094 ms MarkObjects: 0.205048 ms  DeleteObjects: 0.011519 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.488813 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.299892 ms (FindLiveObjects: 0.044926 ms CreateObjectMapping: 0.036478 ms MarkObjects: 0.205816 ms  DeleteObjects: 0.011135 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.804450 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 338.
+Total: 0.299508 ms (FindLiveObjects: 0.042622 ms CreateObjectMapping: 0.036094 ms MarkObjects: 0.200056 ms  DeleteObjects: 0.019967 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.437743 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 338.
+Total: 0.285301 ms (FindLiveObjects: 0.042238 ms CreateObjectMapping: 0.036094 ms MarkObjects: 0.200440 ms  DeleteObjects: 0.005375 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.574058 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 345.
+Total: 0.256118 ms (FindLiveObjects: 0.027262 ms CreateObjectMapping: 0.035326 ms MarkObjects: 0.172793 ms  DeleteObjects: 0.019967 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.532588 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 641.
+Total: 13.987066 ms (FindLiveObjects: 0.077565 ms CreateObjectMapping: 0.067965 ms MarkObjects: 0.661223 ms  DeleteObjects: 13.178776 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 327.057983 ms
+
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 6.853762 ms (FindLiveObjects: 0.036094 ms CreateObjectMapping: 0.024959 ms MarkObjects: 0.195448 ms  DeleteObjects: 6.596491 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.490349 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1941.
+Total: 8.395465 ms (FindLiveObjects: 0.135163 ms CreateObjectMapping: 0.070269 ms MarkObjects: 0.438511 ms  DeleteObjects: 7.751137 ms)
+
+Mage Tower Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mage Tower Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tower built! Money left: 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Standard Tower Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tower built! Money left: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can't build a tower here! - TODO: Display some kind of a message to the user.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Standard Tower Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not enough money!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tower built! Money left: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tower built! Money left: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.255532 ms
+
+Unloading 373 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 6.687880 ms (FindLiveObjects: 0.066429 ms CreateObjectMapping: 0.072189 ms MarkObjects: 0.218871 ms  DeleteObjects: 6.329621 ms)
+
